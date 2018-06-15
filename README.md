@@ -10,3 +10,5 @@ Edit ls1.py for make pi speak on time interval according to you .
 
 fet the font file used here from https://github.com/xxlukas42/RPI_SSD1306
 copy all Montserrat font file to same folder where all other python script located
+
+Downlode oled liberary from here https://github.com/adafruit/Adafruit_Python_SSD1306 
