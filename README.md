@@ -6,3 +6,7 @@ Run the python script run2 for changinf led colour with time
 Edit timeled.py according to you time and set colour by changing dutycycle value of led for colour.
 
 Edit ls1.py for make pi speak on time interval according to you .
+
+
+fet the font file used here from https://github.com/xxlukas42/RPI_SSD1306
+copy all Montserrat font file to same folder where all other python script located
