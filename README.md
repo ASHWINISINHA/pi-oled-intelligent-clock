@@ -8,7 +8,8 @@ Edit timeled.py according to you time and set colour by changing dutycycle value
 Edit ls1.py for make pi speak on time interval according to you .
 
 
-fet the font file used here from https://github.com/xxlukas42/RPI_SSD1306
+fet the font file used here from https://github.com/xxlukas42/RPI_SSD1306 
+font original link https://github.com/JulietaUla/Montserrat/tree/master/fonts/ttf
 copy all Montserrat font file to same folder where all other python script located
 
 Downlode oled liberary from here https://github.com/adafruit/Adafruit_Python_SSD1306 
